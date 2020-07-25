@@ -11,8 +11,14 @@ import './directory.styles.scss';
 const Directory = ({ sections }) => (
     <div className='directory-menu'>
         {sections.map(({ id, ...otherSectionProps }) => (
+<<<<<<< HEAD
                 <MenuItem key={id} {...otherSectionProps} />
         ))}
+=======
+            <MenuItem key={id} {...otherSectionProps} />
+            ))
+        }
+>>>>>>> 1ee2bd7c2ffe14babc09932cc04f4aae3ac89488
     </div>
 )
 
