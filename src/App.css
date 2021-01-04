@@ -49,3 +49,15 @@ a {
     transform: rotate(360deg);
   }
 }
+
+@media only screen and (max-width: 768px) {
+  body {
+    padding: 20px 40px;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    padding: 20px;
+  }
+}

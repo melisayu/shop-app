@@ -60,10 +60,10 @@ const SHOP_DATA = {
       }
     ]
   },
-  backpacks: {
+  jackets: {
     id: 3,
-    title: 'Backpacks',
-    routeName: 'backpacks',
+    title: 'Jackets',
+    routeName: 'jackets',
     items: [
       {
         id: 18,

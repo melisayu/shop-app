@@ -6,10 +6,10 @@ const INITIAL_STATE = {
         linkUrl: 'shop/hats',
     },
     {
-        title: 'backpacks',
+        title: 'jackets',
         imageUrl: 'https://images.pexels.com/photos/843194/pexels-photo-843194.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
         id: 2,
-        linkUrl: 'shop/backpacks',
+        linkUrl: 'shop/jackets',
     },
     {
         title: 'sneakers',
